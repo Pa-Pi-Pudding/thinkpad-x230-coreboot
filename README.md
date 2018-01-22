@@ -1,3 +1,5 @@
 #Thinlpadx230-coreboot.rom
 thinkpad x230用のcoreboot.romファイル
 ubuntuで作成したもの
+これをPomona Electronics 5250 を使って書き込むと
+corebootBIOSになる。BIOSのバックアップを作った方が良い
